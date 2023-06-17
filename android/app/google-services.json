@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19745421465",
+    "project_id": "chat-app-d370d",
+    "storage_bucket": "chat-app-d370d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19745421465:android:5ab4068a9e42595fda2008",
+        "android_client_info": {
+          "package_name": "com.ahmadmaaz.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19745421465-uohosu4gd3qlfk130pekak324303gh6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9xZza95mC3K6bOwhVqjJsyvyIbeo4lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19745421465-uohosu4gd3qlfk130pekak324303gh6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
